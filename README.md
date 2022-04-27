@@ -1,4 +1,7 @@
-### Olá, eu sou a Ivy! 
+### Hello!!
+<p> My name is Ivy, and I am a web developer student. I love learning new tecnologies and meet new people. I use this space so I can post some of my progress while studying and also with the goal of improv everyday a little bit in this huge world of technology! :grin:
+
+
 <br>
 
   <div style="display: inline_block" align="center">
@@ -7,6 +10,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
   </div>
 <br>
 <br>
