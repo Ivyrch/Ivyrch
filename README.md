@@ -1,5 +1,5 @@
 ### Hello!!
-<p> My name is Ivy, and I am a web developer student. I love learning new tecnologies and meet new people. I use this space so I can post some of my progress while studying and also with the goal of improv everyday a little bit in this huge world of technology! :grin:
+<p> My name is Ivy, and I am a web developer student. I love learning new tecnologies and meet new people. I use this space to post some of my progress while studying and also with the goal of improv everyday a little bit in this huge world of technology! :grin:
 
 
 <br>
